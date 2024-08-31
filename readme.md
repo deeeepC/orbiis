@@ -1,1 +1,1 @@
-# gn-8 is a gnss processing library written in python
+# orbiis is a gnss processing library written in python
