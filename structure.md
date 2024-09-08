@@ -12,7 +12,7 @@
 │   ├── ephemeris.py
 │   ├── gps_time.py
 │   ├── ionosphere.py
-│   ├── log.py
+│   ├── logger.py
 │   ├── math.py
 │   ├── position.py
 │   ├── rinex.py
