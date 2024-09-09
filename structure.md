@@ -5,8 +5,8 @@
 ├── orbiis/
 │   ├── core/
 │   │   ├── attitude.py
-│   │   ├── geospatial.py
-│   │   └── constants.py
+│   │   ├── constants.py
+│   │   └── coordinates.py
 │   ├── __init__.py
 │   ├── download.py
 │   ├── ephemeris.py
